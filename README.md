@@ -1,5 +1,9 @@
 # API Project: URL Shortener Microservice for freeCodeCamp
 
+## TODO:
+- Modularize server.js 
+- Routes and Handlers into separate module
+- Refer to the fcc example
 
 ### User Stories
 
