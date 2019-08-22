@@ -1,0 +1,79 @@
+form {
+  
+  border: solid 1px #aaa;
+  border-radius: 5px;
+  margin: 10px auto;
+  padding: 20px;
+  max-width: 600px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input {
+  padding: 5px;
+}
+
+input[type=text] {
+  width: 220px;
+  text-align: center;
+}
+
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #FaFaFa;
+	background-color: #2a2a2a;
+	text-align: center;
+	line-height: 1.4em;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+.footer {
+	margin-top: 40px;
+}
+
+.user-stories {
+  position: relative;
+  text-align: justify;
+  max-width: 700px;
+  margin: 15px auto;
+}
+code {
+  display: inline-block;
+  font-family: monospace;
+  padding: 4px;
+  color: lightBlue;
+  background-color: #1a1a1a;
+}
+ol {
+	list-style-position: outside;
+  text-align: left;
+  max-width: 700px;
+  margin: auto;
+}
+ul {
+	list-style-type: none;
+}
+
+li {
+  margin-bottom: 1em;
+}
+.user-stories li {
+  margin-bottom: 1em;
+}
+
+a {
+	color: #2574A9;
+}
